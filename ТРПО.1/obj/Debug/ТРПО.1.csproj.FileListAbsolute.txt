@@ -1,0 +1,29 @@
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\bin\Debug\ТРПО.1.exe.config
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\bin\Debug\ТРПО.1.exe
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\bin\Debug\ТРПО.1.pdb
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\obj\Debug\ТРПО.1.csprojAssemblyReference.cache
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\obj\Debug\ТРПО._1.Form1.resources
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\obj\Debug\ТРПО._1.Properties.Resources.resources
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\obj\Debug\ТРПО.1.csproj.GenerateResource.cache
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\obj\Debug\ТРПО.1.csproj.CoreCompileInputs.cache
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\obj\Debug\ТРПО.1.exe
+C:\Users\shirz\Desktop\Progi\ТРПО.1\ТРПО.1\obj\Debug\ТРПО.1.pdb
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\bin\Debug\ТРПО.1.exe.config
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\bin\Debug\ТРПО.1.exe
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\bin\Debug\ТРПО.1.pdb
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО.1.csprojAssemblyReference.cache
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО._1.Form1.resources
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО._1.Properties.Resources.resources
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО.1.csproj.GenerateResource.cache
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО.1.csproj.CoreCompileInputs.cache
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО.1.exe
+C:\Users\shirz\Desktop\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО.1.pdb
+D:\Progi\ТРПО.1 универсальное\ТРПО.1\bin\Debug\ТРПО.1.exe.config
+D:\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО.1.exe
+D:\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО.1.pdb
+D:\Progi\ТРПО.1 универсальное\ТРПО.1\bin\Debug\ТРПО.1.exe
+D:\Progi\ТРПО.1 универсальное\ТРПО.1\bin\Debug\ТРПО.1.pdb
+D:\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО.1.csprojResolveAssemblyReference.cache
+D:\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО._1.Properties.Resources.resources
+D:\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО.1.csproj.GenerateResource.Cache
+D:\Progi\ТРПО.1 универсальное\ТРПО.1\obj\Debug\ТРПО._1.mainForm.resources
